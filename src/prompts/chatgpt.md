@@ -1,10 +1,26 @@
 ## 🧠 Prompts
 
 
-ChatGPT：
+Gemini：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  conteúdo  | Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de Inteligência Artificial chamado "uAI News", focado nas principais novidades sobre IA do dia de hoje.
+
+o formato do roteiro deve ser
+-INTRODUÇÃO
+-NEWS
+-FINALIZAÇÃO
+
+{REGRAS}
+- usar termos em mineires/caipira, estilo dos vídeos do canal do 'Paulo Araújo'. Use expressões como bão?, uai, nú, trem bão, etc.
+- no bloco INTRODUÇÂO inicie com a palavra 'Bão?' e convide a conhecer as novidades e 'tomando um cafezin'.
+- no bloco News escolha as 5 principais novidades sobre IA do dia e faça um breve resumo em mineires.
+- no bloco FINALIZAÇÃO substitua por uma despedida final.
+- O podcast deve ser curto. Adicione a url no final de cada noticia.
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração                                                        |
 
