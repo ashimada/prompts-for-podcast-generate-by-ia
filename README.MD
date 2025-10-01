@@ -38,6 +38,6 @@ Projeto com o objetivo de **gerar um podcast** utilizando **ferramentas de IA** 
 
 Utilize os prompts contidos na pasta `src/prompts`.
 
-* **🤖 Roteiro e Imagem:** Use os prompts de roteiro e de imagem no **`prompts.md`** (o arquivo original era **`chagpt.md`** - mudei para um nome mais genérico, já que foi usado o Gemini).
+* **🤖 Roteiro e Imagem:** Use os prompts de roteiro e de imagem no **`prompts.md`** 
 * **🗣️ Áudio:** Copie o texto final do roteiro e cole na ferramenta **"Texto-para-voz gratuito"** para gerar o arquivo de áudio.
 * **✂️ Edição:** Use o **Capcut** para juntar o áudio gerado e a música de fundo.
